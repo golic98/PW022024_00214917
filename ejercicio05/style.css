@@ -1,0 +1,25 @@
+* {
+    background-image: url("./img/fondo.jpg");
+}
+
+h1 {
+    color: rgb(57, 170, 214);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 span{
+    color: #A020F0;
+}
+
+h2:nth-of-type(3){
+    color: rgb(198, 233, 44);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.strong_color, .li_color {
+    color: pink;
+}
+
+th, td {
+    background: rgb(71, 241, 71);
+}
