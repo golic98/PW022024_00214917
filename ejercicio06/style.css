@@ -1,0 +1,31 @@
+.top_div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_artista {
+    display: flex;          
+    justify-content: center;
+    align-items: end;
+}
+
+.column-music {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.sql {
+    display: flex;
+    justify-content: start;
+}
+
+.javascript {
+    display: flex;
+    justify-content: center;
+}
+
+.kotlin {
+    display: flex;
+    justify-content: end;
+}
